@@ -95,6 +95,34 @@ Each row represents a **single purchase transaction** and includes:
 
 ---
 
+## 📊 Power BI Dashboard
+
+### 🔹 Dashboard Overview
+- Live connection to **SQL Server**
+- Real-time, interactive analytics
+- Designed for business stakeholders
+
+### 🔹 Key KPIs & Visuals
+- Total Revenue  
+- Average Purchase Amount  
+- Revenue by Gender & Age Group  
+- Subscription vs Non-Subscription Spend  
+- Product & Category Performance  
+
+### 🔹 Interactive Filters
+- Age  
+- Gender  
+- Category  
+- Subscription Status  
+
+---
+
+### Dashboard Preview
+
+![Power BI Dashboard Preview](https://github.com/Asaxena7124/Customer-Shopping-Behavior-Analysis/blob/main/Customer%20Shopping%20Behavior%20Dashboard%20Preview.png?raw=true)
+
+
+
 ## 🏁 Conclusion
 This project showcases a **real-world data analytics workflow** combining SQL, Python, and Power BI to deliver **actionable business insights**.
 
