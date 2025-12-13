@@ -143,6 +143,3 @@ Data Analyst | SQL | Python | Power BI
 ---
 
 ⭐ If you found this project insightful, feel free to star the repository!
-
-
-## 🗃 Project Structure
