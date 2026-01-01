@@ -1,7 +1,9 @@
-# 📊 Customer Purchase Behavior Analysis  
-**End-to-End Data Analytics Project (SQL Server → Python → Power BI)**
-
+ **📊 Customer Purchase Behavior Analysis**
 ---
+
+### Dashboard Preview
+
+![Power BI Dashboard Preview](https://github.com/Asaxena7124/Customer-Shopping-Behavior-Analysis/blob/main/Customer%20Shopping%20Behavior%20Dashboard%20Preview.png?raw=true)
 
 ## 👋 Overview
 This project analyzes customer shopping behavior to uncover **revenue drivers, customer loyalty patterns, and subscription impact** using real-world transactional data.
@@ -116,12 +118,6 @@ Each row represents a **single purchase transaction** and includes:
 - Subscription Status  
 
 ---
-
-### Dashboard Preview
-
-![Power BI Dashboard Preview](https://github.com/Asaxena7124/Customer-Shopping-Behavior-Analysis/blob/main/Customer%20Shopping%20Behavior%20Dashboard%20Preview.png?raw=true)
-
-
 
 ## 🏁 Conclusion
 This project showcases a **real-world data analytics workflow** combining SQL, Python, and Power BI to deliver **actionable business insights**.
