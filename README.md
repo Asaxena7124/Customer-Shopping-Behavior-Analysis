@@ -79,8 +79,6 @@ Each row represents a **single purchase transaction** and includes:
 ---
 
 
----
-
 ## 🚀 Completed Features
 - ✔ SQL Server database & schema design  
 - ✔ CSV → SQL ingestion using Python  
