@@ -1,9 +1,8 @@
  **📊 Customer Purchase Behavior Analysis**
 ---
 
-### Dashboard Preview
+![Dashboard Preview](https://raw.githubusercontent.com/Asaxena7124/Customer-Shopping-Behavior-Analysis/main/dashboard/Customer%20Shopping%20Behavior%20Dashboard%20Preview.png)
 
-![Power BI Dashboard Preview](https://github.com/Asaxena7124/Customer-Shopping-Behavior-Analysis/blob/main/Customer%20Shopping%20Behavior%20Dashboard%20Preview.png?raw=true)
 
 ## 👋 Overview
 This project analyzes customer shopping behavior to uncover **revenue drivers, customer loyalty patterns, and subscription impact** using real-world transactional data.
